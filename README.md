@@ -1,4 +1,6 @@
-## Hi there 👋
+Pedronho Medronho
+
+Iniciante em busca de conhecimento. 
 
 <!--
 **Pedronho-Medronho/Pedronho-Medronho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
